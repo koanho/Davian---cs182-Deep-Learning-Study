@@ -3,7 +3,7 @@
 ### Time: Wednesday 19:00 - 21:30
 
 |       Lecture       | Topic | Videos |
-|:----------------:|:----------------------------------------:|:----------:|:------:|:------:
+|:----------------:|:----------------------------------------:|:----------:
 | Lecture 1,2 | [Intro to DL, ML Basic 1](https://arxiv.org/abs/2111.01007) | [Video](https://drive.google.com/file/d/1KrteLq9Y1eSD4qDxdfXQUkdLaJUEj-3W/view?usp=sharing)
 | 29th December, 2021 | [Autoformer: Decomposition Transformers with Auto-Correlation for Long-Term Series Forecasting](https://arxiv.org/abs/2106.13008) | [Video](https://youtu.be/QOUKrEQzX88)
 | 22th December, 2021 | [PaMIR: Parametric Model-Conditioned Implicit Representation for Image-based Human Reconstruction](https://arxiv.org/abs/2007.03858) | [Video](https://youtu.be/p8pU4zxWrT0)
